@@ -1,4 +1,4 @@
-Download only the second and last files please ignore the files with 'git'.
+Download only the third and last files please ignore the files with 'git'.
 
 Copy the main activity's code to your own main activity in your own android studio.
 Same goes for design code (the second file).
